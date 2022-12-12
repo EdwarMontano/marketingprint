@@ -1,0 +1,158 @@
+{
+  "Header": {
+    "title": "SUSANA PASTORIZA",
+    "paragraph": "AUDIÓLOGA",
+    "paragraph2": "Nuestra misión es ayudar a recuperar tu audición y mejorar tu calidad de vida"
+
+  },
+  "About": {
+    "paragraph": "Audióloga Susana Pastoriza, con más de 30 años de experiencia en adaptación de audífonos en niños y en adultos. Fonoaudióloga de la Universidad Nacional de Córdoba en Argentina, especialista en Audiología de la Corporación Universitaria Iberoamericana de Bogotá, miembro honorario de la Asociación Colombiana de Audiología y docente colaboradora en la formación de otros profesionales en el campo audiológico.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Soy Susana Pastoriza.Tengo 30 años de experiencia en adaptación de audífonos en niños y en adultos. Pide tu cita  \n 👩‍⚕️ Audiologa Susana Pastoriza\n 📞3207881261",
+      "largeImage": "https://www.instagram.com/p/CgQOK4TF1Lk/",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "LA PERDIDA AUDITIVA LEVE NO ES UN PROBLEMA LEVE \n No es necesario estar “sordo” para necesitar ayudas auditivas. Pide tu cita  \n 👩‍⚕️ Audiologa Susana Pastoriza\n 📞3207881261",
+      "largeImage": "https://www.instagram.com/p/ChvfaGYvi52/",
+      "smallImage": "img/portfolio/11-small.jpg"
+    },
+    {
+      "title": "Lista para empezar la semana y atenderte cuando lo requieras. Pide tu cita  \n 👩‍⚕️ Audiologa Susana Pastoriza\n 📞3207881261",
+      "largeImage": "https://www.instagram.com/susana.pastoriza/",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "BRINDAR LA MEJOR CALIDAD DE SONIDO ES LA PRIORIDAD \n Se requiere no solamente una buena evaluación auditiva sino también revisar las necesidades, habilidades y presupuesto de quien necesita los audífonos. Pide tu cita  \n 👩‍⚕️ Audiologa Susana Pastoriza\n 📞3207881261",
+      "largeImage": "https://www.instagram.com/p/CgahKNKFlVb/",
+      "smallImage": "img/portfolio/12-small.jpg"
+    },
+    {
+      "title": "¿DE QUE COLOR QUIERES TU AUDIFONO? \n La mayoría de las personas piensan que los audífonos deben ser color piel. Pide tu cita  \n 👩‍⚕️ Audiologa Susana Pastoriza\n 📞3207881261",
+      "largeImage": "https://www.instagram.com/p/Ce3t7ppD29y/",
+      "smallImage": "img/portfolio/10-small.jpg"
+    },
+    {
+      "title": "LA VIDA UTIL DE LOS AUDIFONOS DEPENDE MUCHO DEL CUIDADO Y MANEJO Los audífonos son computadores en miniatura, que están expuestos a la humedad de la piel, del pelo y del ambiente, al cerumen del oído, al polvo del aire y a veces a golpes accidentales o brusquedad en el manejo y otros factores imprevisibles.",
+      "largeImage": "https://www.instagram.com/susana.pastoriza/",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": {
+    "column1": [
+      {
+        "icon": "AvisosIcon",
+        "name": "ADAPTACIÓN DE AUDÍFONOS",
+        "text": "Con base en la experiencia, el tipo de pérdida auditiva y las necesidades individuales del paciente, buscamos la mejor opción, discreta y asequible que nos permita obtener el mejor resultado auditivo. ¡Volver a oír es extraordinario! Los audífonos modernos son pequeños y muy cómodos. Darse la oportunidad de probarlos podría cambiar tu vida."
+      },
+      {
+        "icon": "AvisosIcon",
+        "name": "EVALUACIÓN AUDITIVA",
+        "text": "Siempre realizamos una exhaustiva evaluación auditiva antes de tomar una decisión con respecto a la adaptación de audífonos. No todas las pérdidas auditivas lo requieren y por tanto es indispensable una revisión previa y un diagnóstico preciso. De esos resultados depende el éxito."
+      },
+      {
+        "icon": "AvisosIcon",
+        "name": "AUDÍFONOS PARA NIÑOS",
+        "text": "Las pérdidas auditivas en niños no siempre aparecen desde el nacimiento y no son fáciles de detectar especialmente si son leves. Es importante evaluar cada año la audición de los niños. Una pérdida auditiva leve no es un problema leve, esta puede generar dificultades escolares, de atención y de autoestima. Detectar a tiempo y buscar soluciones hace la diferencia."
+      }
+    ],
+    "column2":[
+      {
+        "icon": "AvisosIcon",
+        "name": "AUDÍFONOS PARA ADULTOS",
+        "text": "Una pérdida auditiva puede aparecer a cualquier edad y limita las capacidades de comunicación, las relaciones personales y laborales, evaluarla y darle solución es nuestro objetivo. Actualmente los audífonos son cómodos, discretos y se ajustan a las necesidades de conectividad para diferentes dispositivos electrónicos. "
+      },
+      {
+        "icon": "AvisosIcon",
+        "name": "AUDÍFONOS PARA ADULTO MAYOR",
+        "text": "Las pérdidas auditivas en adultos mayores generan inseguridad, aislamiento e irritabilidad dificultando sus relaciones personales, familiares y de comunicación. Algunos mayores tienen dificultades motoras o de desplazamiento, por tanto, en caso de necesidad, podemos realizar consulta domiciliaria."
+      },
+      {
+        "icon": "AvisosIcon",
+        "name": "MANEJO DEL TINNITUS",
+        "text": "El tinnitus es un zumbido muy incómodo que se presenta en el 20% de la población mundial, puede tener que ver con algún tipo de pérdida auditiva, pero algunas veces no se encuentra la causa. Sin embargo,  puede ser muy molesto y si bien no se conoce un tratamiento que lo elimine totalmente, existen opciones de manejo que podemos utilizar con éxito."
+      }
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Gracias Dra Pastoriza 👏 exactamente debemos estar atentos a nuestra AUDICIÓN 👂 , ES VITAL PARA ÉL CEREBRO \"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"La Mejor Fonaudiologa del país ❤️ .\"",
+      "name": "Paciente"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Excelente como profesional y persona . Súper recomendada\"",
+      "name": "John Doe"
+    }
+    
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "⚪ Carrera 50 # 5D - 37 Edificio Cosmoplaza Local 23",
+    "address2": "⚪ Calle 5D # 38 A 35 Torre 1 Consultorio 1129",
+    "country": "Cali  Colombia",
+    "phone": "+57 3207881261",
+    "email": "sepastoriza@gmail.com",
+    "facebook": "https://www.facebook.com/Susana-Pastoriza-103746579027849",
+    "whatsapp":    "https://api.whatsapp.com/send?phone=+573207881261&text=",
+    "instagram": "https://www.instagram.com/susana.pastoriza/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-eventos fa-4x",
+      "title": "DOCENTE",
+      "text": "Docente en varias instituciones y universidades del país y ponente en congresos y simposios nacionales e internacionales."
+    },
+    {
+      "icon": "fa fa-logo fa-5x",
+      "title": "AUDIÓLOGA",
+      "text": "Profesional con calidad humana y larga experiencia en la atención de pacientes con pérdida auditiva. Experta en adaptación de audífonos y  evaluaciones auditivas como ayuda diagnóstica."
+    },    
+    {
+      "icon": "fa fa-bulb fa-4x",
+      "title": "EMPRESARIA",
+      "text": "Fundadora de una prestigiosa empresa de audífonos en Colombia de la cual fue directora audiológica."
+    }
+  ]
+}
